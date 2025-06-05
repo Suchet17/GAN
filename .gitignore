@@ -1,0 +1,5 @@
+FashionMNIST/data/*
+HorsesHumans/test/*
+HorsesHumans/train/*
+HorsesHumans/logs/fake/*
+HorsesHumans/logs/real/*
