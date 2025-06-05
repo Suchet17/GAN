@@ -3,3 +3,4 @@ HorsesHumans/test/*
 HorsesHumans/train/*
 HorsesHumans/logs/fake/*
 HorsesHumans/logs/real/*
+CIFAR10/data/*
