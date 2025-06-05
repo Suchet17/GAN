@@ -10,24 +10,17 @@ class DiscriminativeNetwork(nn.Module):
             nn.LeakyReLU(0.2), # 14x14
             # _block(in_channels, out_channels, kernel_size, stride, padding)
             self._block(features_d    , features_d * 4, 4, 2, 1), # 7x7
-            self._block(features_d * 4, features_d * 16, 4, 3, 0), # 2x2
-            # After all _block img output is 4x4 (Conv2d below makes into 1x1)
+            self._block(features_d * 4, features_d * 16, 4, 3, 0), # 2x2\
             nn.Conv2d(features_d * 16, 1, kernel_size=4, stride=2, padding=1), #1x1
             nn.Sigmoid(),
         )
 
     def _block(self, in_channels, out_channels, kernel_size, stride, padding):
         return nn.Sequential(
-            nn.Conv2d(
-                in_channels,
-                out_channels,
-                kernel_size,
-                stride,
-                padding,
-                bias=False,
-            ),
+            nn.Conv2d(in_channels, out_channels, kernel_size,
+                      stride, padding, bias=False),
             nn.BatchNorm2d(out_channels),
-            nn.LeakyReLU(0.2),
+            nn.LeakyReLU(0.1),
         )
 
     def forward(self, x):
@@ -42,24 +35,17 @@ class GenerativeNetwork(nn.Module):
             self._block(channels_noise, features_g * 16, 4, 2, 1), #2x2
             self._block(features_g * 16, features_g * 4, 4, 3, 0), #7x7
             self._block(features_g * 4, features_g * 1, 4, 2, 1), #14x14
-            nn.ConvTranspose2d(
-                features_g, channels_img, kernel_size=4, stride=2, padding=1
-            ),
+            nn.ConvTranspose2d(features_g, channels_img,
+                               kernel_size=4, stride=2, padding=1),
             # Output: N x channels_img x 28x28
             nn.Tanh(),
         )
 
     def _block(self, in_channels, out_channels, kernel_size, stride, padding):
         return nn.Sequential(
-            nn.ConvTranspose2d(
-                in_channels,
-                out_channels,
-                kernel_size,
-                stride,
-                padding,
-                bias=False,
-            ),
-            # nn.BatchNorm2d(out_channels),
+            nn.ConvTranspose2d(in_channels,  out_channels, kernel_size,
+                               stride, padding, bias=False),
+            nn.BatchNorm2d(out_channels),
             nn.ReLU(),
         )
 
@@ -70,8 +56,10 @@ class GenerativeNetwork(nn.Module):
 def init_weights(model):
     # Initializes weights according to the DCGAN paper
     for m in model.modules():
-        if isinstance(m, (nn.Conv2d, nn.ConvTranspose2d, nn.BatchNorm2d)):
+        if isinstance(m, (nn.Conv2d, nn.ConvTranspose2d)):
             nn.init.normal_(m.weight.data, 0.0, 0.02)
+        if isinstance(m, nn.BatchNorm2d):
+            nn.init.normal_(m.weight.data, 1.0, 0.02)
 
 
 def test():

@@ -1,0 +1,7 @@
+Learning Rate Gen = 0.0003	Learning Rate Disc = 3e-05
+
+17:43:02.029331	Epoch [1/30]	Batch [1/313]	Loss D: 1.1494	loss G: 7.4655
+17:43:23.934920	Epoch [1/30]	Batch [63/313]	Loss D: 0.0301	loss G: 7.3623
+17:43:45.419091	Epoch [1/30]	Batch [125/313]	Loss D: 0.0340	loss G: 9.7547
+17:44:06.952168	Epoch [1/30]	Batch [187/313]	Loss D: 0.0070	loss G: 8.3429
+17:44:28.525745	Epoch [1/30]	Batch [249/313]	Loss D: 0.1746	loss G: 14.4450

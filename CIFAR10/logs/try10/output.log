@@ -1,0 +1,4 @@
+No BatchNorm for Discriminator
+Learning Rate Gen = 0.0004	Learning Rate Disc = 8e-05
+18:50:12.943444	Epoch [1/30]	Batch [1/313]	Loss D: 1.0170	loss G: 26.2969
+18:50:34.685198	Epoch [1/30]	Batch [63/313]	Loss D: 0.0000	loss G: 41.5901
