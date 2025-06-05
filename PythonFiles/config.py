@@ -1,0 +1,9 @@
+learning_rate_d = 8e-5
+learning_rate_g = 1e-4
+batch_size = 16
+num_epochs = 10
+img_channels = 3
+img_size = 64
+z_dim = 100
+features_disc = 100
+features_gen = 100

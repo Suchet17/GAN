@@ -1,0 +1,532 @@
+16:27:35.463633	Epoch [1/10]	Batch [1/107]	Loss D: 11.3242	loss G: 5.4237
+
+16:27:37.367780	Epoch [1/10]	Batch [2/107]	Loss D: 6.8956	loss G: 5.5982
+
+16:28:06.218493	Epoch [1/10]	Batch [3/107]	Loss D: 15.1202	loss G: 4.1602
+
+16:28:35.317610	Epoch [1/10]	Batch [4/107]	Loss D: 27.9072	loss G: 3.6838
+
+16:29:04.683156	Epoch [1/10]	Batch [5/107]	Loss D: 26.3801	loss G: 2.9223
+
+16:29:34.241236	Epoch [1/10]	Batch [6/107]	Loss D: 28.0901	loss G: 2.2749
+
+16:30:04.050838	Epoch [1/10]	Batch [7/107]	Loss D: 38.3704	loss G: 1.5795
+
+16:30:33.480774	Epoch [1/10]	Batch [8/107]	Loss D: 29.4277	loss G: 2.8580
+
+16:31:02.660611	Epoch [1/10]	Batch [9/107]	Loss D: 38.6554	loss G: 1.3517
+
+16:31:32.200080	Epoch [1/10]	Batch [10/107]	Loss D: 47.0213	loss G: 0.9558
+
+16:32:01.599648	Epoch [1/10]	Batch [11/107]	Loss D: 38.1119	loss G: 2.5653
+
+16:32:31.020176	Epoch [1/10]	Batch [12/107]	Loss D: 46.4981	loss G: 0.0849
+
+16:33:01.048005	Epoch [1/10]	Batch [13/107]	Loss D: 38.4310	loss G: 1.5990
+
+16:33:30.780850	Epoch [1/10]	Batch [14/107]	Loss D: 38.8058	loss G: 1.4649
+
+16:34:00.686569	Epoch [1/10]	Batch [15/107]	Loss D: 50.0048	loss G: 0.0000
+
+16:34:30.302171	Epoch [1/10]	Batch [16/107]	Loss D: 42.2665	loss G: 1.1278
+
+16:34:59.727756	Epoch [1/10]	Batch [17/107]	Loss D: 50.4300	loss G: 0.0000
+
+16:35:29.353821	Epoch [1/10]	Batch [18/107]	Loss D: 46.2013	loss G: 0.5562
+
+16:35:59.127425	Epoch [1/10]	Batch [19/107]	Loss D: 46.6210	loss G: 0.5991
+
+16:36:28.739104	Epoch [1/10]	Batch [20/107]	Loss D: 42.7652	loss G: 0.5466
+
+16:36:58.092801	Epoch [1/10]	Batch [21/107]	Loss D: 46.2921	loss G: 0.8894
+
+16:37:27.655390	Epoch [1/10]	Batch [22/107]	Loss D: 46.3607	loss G: 0.7561
+
+16:37:58.122050	Epoch [1/10]	Batch [23/107]	Loss D: 45.9513	loss G: 1.1959
+
+16:38:26.594754	Epoch [1/10]	Batch [24/107]	Loss D: 42.7464	loss G: 1.0655
+
+16:38:56.120999	Epoch [1/10]	Batch [25/107]	Loss D: 50.0003	loss G: 0.0000
+
+16:39:25.867945	Epoch [1/10]	Batch [26/107]	Loss D: 42.4294	loss G: 1.8586
+
+16:39:55.439510	Epoch [1/10]	Batch [27/107]	Loss D: 47.1840	loss G: 0.2455
+
+16:40:33.851629	Epoch [1/10]	Batch [28/107]	Loss D: 50.0000	loss G: 0.0000
+
+16:41:17.599004	Epoch [1/10]	Batch [29/107]	Loss D: 46.2420	loss G: 0.7823
+
+16:41:59.282368	Epoch [1/10]	Batch [30/107]	Loss D: 42.1847	loss G: 2.6871
+
+16:42:38.385817	Epoch [1/10]	Batch [31/107]	Loss D: 50.0697	loss G: 0.0000
+
+16:43:18.589102	Epoch [1/10]	Batch [32/107]	Loss D: 50.0009	loss G: 0.0000
+
+16:43:58.792554	Epoch [1/10]	Batch [33/107]	Loss D: 50.0087	loss G: 0.0000
+
+16:44:39.740715	Epoch [1/10]	Batch [34/107]	Loss D: 46.5631	loss G: 0.7792
+
+16:45:19.813468	Epoch [1/10]	Batch [35/107]	Loss D: 38.8607	loss G: 2.1417
+
+16:45:58.935576	Epoch [1/10]	Batch [36/107]	Loss D: 50.2992	loss G: 0.0000
+
+16:46:38.478585	Epoch [1/10]	Batch [37/107]	Loss D: 46.1696	loss G: 1.0927
+
+16:47:19.111767	Epoch [1/10]	Batch [38/107]	Loss D: 46.4820	loss G: 0.3685
+
+16:47:58.868955	Epoch [1/10]	Batch [39/107]	Loss D: 46.9781	loss G: 0.6343
+
+16:48:38.831598	Epoch [1/10]	Batch [40/107]	Loss D: 46.2172	loss G: 1.1832
+
+16:49:19.470890	Epoch [1/10]	Batch [41/107]	Loss D: 50.0000	loss G: 0.0000
+
+16:49:59.192873	Epoch [1/10]	Batch [42/107]	Loss D: 39.0783	loss G: 2.6156
+
+16:50:39.687533	Epoch [1/10]	Batch [43/107]	Loss D: 50.0000	loss G: 0.0000
+
+16:51:21.318101	Epoch [1/10]	Batch [44/107]	Loss D: 50.3151	loss G: 0.0000
+
+16:52:01.220867	Epoch [1/10]	Batch [45/107]	Loss D: 46.2734	loss G: 0.8852
+
+16:52:42.833525	Epoch [1/10]	Batch [46/107]	Loss D: 41.9459	loss G: 2.0161
+
+16:53:25.735799	Epoch [1/10]	Batch [47/107]	Loss D: 50.3955	loss G: 0.0000
+
+16:54:07.042192	Epoch [1/10]	Batch [48/107]	Loss D: 50.0000	loss G: 0.0000
+
+16:54:46.942609	Epoch [1/10]	Batch [49/107]	Loss D: 46.4398	loss G: 0.7457
+
+16:55:27.363908	Epoch [1/10]	Batch [50/107]	Loss D: 50.0557	loss G: 0.0000
+
+16:56:06.665875	Epoch [1/10]	Batch [51/107]	Loss D: 42.2852	loss G: 1.8583
+
+16:56:47.209839	Epoch [1/10]	Batch [52/107]	Loss D: 50.0000	loss G: 0.0000
+
+16:57:28.640773	Epoch [1/10]	Batch [53/107]	Loss D: 50.0000	loss G: 0.0000
+
+16:58:09.974826	Epoch [1/10]	Batch [54/107]	Loss D: 45.8690	loss G: 0.3348
+
+16:58:51.520569	Epoch [1/10]	Batch [55/107]	Loss D: 50.2244	loss G: 0.0000
+
+16:59:32.615745	Epoch [1/10]	Batch [56/107]	Loss D: 47.0988	loss G: 0.5988
+
+17:00:14.094606	Epoch [1/10]	Batch [57/107]	Loss D: 50.0000	loss G: 0.0000
+
+17:00:55.162928	Epoch [1/10]	Batch [58/107]	Loss D: 50.0013	loss G: 0.0000
+
+17:01:36.580216	Epoch [1/10]	Batch [59/107]	Loss D: 50.0264	loss G: 0.0000
+
+17:02:18.198071	Epoch [1/10]	Batch [60/107]	Loss D: 50.0000	loss G: 0.0000
+
+17:03:00.091783	Epoch [1/10]	Batch [61/107]	Loss D: 46.0236	loss G: 1.5854
+
+17:03:42.645697	Epoch [1/10]	Batch [62/107]	Loss D: 50.0019	loss G: 0.0000
+
+17:04:22.534370	Epoch [1/10]	Batch [63/107]	Loss D: 45.8406	loss G: 0.4980
+
+17:05:01.712487	Epoch [1/10]	Batch [64/107]	Loss D: 46.4689	loss G: 0.7924
+
+17:05:42.781364	Epoch [1/10]	Batch [65/107]	Loss D: 50.0000	loss G: 0.0000
+
+17:06:21.742582	Epoch [1/10]	Batch [66/107]	Loss D: 46.1315	loss G: 1.5250
+
+17:07:01.832741	Epoch [1/10]	Batch [67/107]	Loss D: 50.0005	loss G: 0.0000
+
+17:07:41.858829	Epoch [1/10]	Batch [68/107]	Loss D: 50.0000	loss G: 0.0000
+
+17:08:21.202649	Epoch [1/10]	Batch [69/107]	Loss D: 50.0000	loss G: 0.0000
+
+17:09:00.621936	Epoch [1/10]	Batch [70/107]	Loss D: 50.0894	loss G: 0.0000
+
+17:09:41.278027	Epoch [1/10]	Batch [71/107]	Loss D: 50.0007	loss G: 0.0000
+
+17:10:20.783027	Epoch [1/10]	Batch [72/107]	Loss D: 50.0000	loss G: 0.0000
+
+17:11:00.138855	Epoch [1/10]	Batch [73/107]	Loss D: 50.0001	loss G: 0.0000
+
+17:11:39.541638	Epoch [1/10]	Batch [74/107]	Loss D: 50.0000	loss G: 0.0000
+
+17:12:18.887664	Epoch [1/10]	Batch [75/107]	Loss D: 50.0000	loss G: 0.0000
+
+17:12:58.014857	Epoch [1/10]	Batch [76/107]	Loss D: 46.3124	loss G: 1.0175
+
+17:13:37.630118	Epoch [1/10]	Batch [77/107]	Loss D: 50.0001	loss G: 0.0000
+
+17:14:16.769130	Epoch [1/10]	Batch [78/107]	Loss D: 50.0224	loss G: 0.0000
+
+17:14:56.092543	Epoch [1/10]	Batch [79/107]	Loss D: 50.0004	loss G: 0.0000
+
+17:15:35.962977	Epoch [1/10]	Batch [80/107]	Loss D: 45.9748	loss G: 1.9084
+
+17:16:15.129218	Epoch [1/10]	Batch [81/107]	Loss D: 46.0525	loss G: 2.0271
+
+17:16:54.601210	Epoch [1/10]	Batch [82/107]	Loss D: 50.0001	loss G: 0.0000
+
+17:17:34.092753	Epoch [1/10]	Batch [83/107]	Loss D: 50.0000	loss G: 0.0000
+
+17:18:13.113863	Epoch [1/10]	Batch [84/107]	Loss D: 46.4701	loss G: 1.0403
+
+17:18:52.535665	Epoch [1/10]	Batch [85/107]	Loss D: 50.0000	loss G: 0.0000
+
+17:19:33.166088	Epoch [1/10]	Batch [86/107]	Loss D: 50.0000	loss G: 0.0000
+
+17:20:11.923494	Epoch [1/10]	Batch [87/107]	Loss D: 50.0369	loss G: 0.0000
+
+17:20:52.115351	Epoch [1/10]	Batch [88/107]	Loss D: 50.0836	loss G: 0.0000
+
+17:21:32.671777	Epoch [1/10]	Batch [89/107]	Loss D: 50.0369	loss G: 0.0000
+
+17:22:11.796231	Epoch [1/10]	Batch [90/107]	Loss D: 42.3659	loss G: 3.3777
+
+17:22:51.337679	Epoch [1/10]	Batch [91/107]	Loss D: 50.0001	loss G: 0.0000
+
+17:23:31.617798	Epoch [1/10]	Batch [92/107]	Loss D: 42.0833	loss G: 2.1240
+
+17:24:10.589182	Epoch [1/10]	Batch [93/107]	Loss D: 50.0000	loss G: 0.0000
+
+17:24:50.236835	Epoch [1/10]	Batch [94/107]	Loss D: 46.4976	loss G: 1.0861
+
+17:25:29.457262	Epoch [1/10]	Batch [95/107]	Loss D: 42.8524	loss G: 2.6014
+
+17:26:08.401173	Epoch [1/10]	Batch [96/107]	Loss D: 50.0048	loss G: 0.0000
+
+17:26:47.605975	Epoch [1/10]	Batch [97/107]	Loss D: 50.2200	loss G: 0.0000
+
+17:27:26.980471	Epoch [1/10]	Batch [98/107]	Loss D: 46.4165	loss G: 1.1015
+
+17:28:06.092136	Epoch [1/10]	Batch [99/107]	Loss D: 46.4752	loss G: 1.4617
+
+17:28:45.291770	Epoch [1/10]	Batch [100/107]	Loss D: 50.0000	loss G: 0.0000
+
+17:29:25.240520	Epoch [1/10]	Batch [101/107]	Loss D: 50.0000	loss G: 0.0000
+
+17:30:04.490516	Epoch [1/10]	Batch [102/107]	Loss D: 50.0000	loss G: 0.0000
+
+17:30:43.929746	Epoch [1/10]	Batch [103/107]	Loss D: 50.0222	loss G: 0.0000
+
+17:31:23.363481	Epoch [1/10]	Batch [104/107]	Loss D: 50.0000	loss G: 0.0000
+
+17:32:02.487365	Epoch [1/10]	Batch [105/107]	Loss D: 42.6696	loss G: 3.1127
+
+17:32:41.722843	Epoch [1/10]	Batch [106/107]	Loss D: 50.0002	loss G: 0.0000
+
+17:33:22.225880	Epoch [1/10]	Batch [107/107]	Loss D: 45.9010	loss G: 1.9410
+
+17:34:19.867875	Epoch [2/10]	Batch [1/107]	Loss D: 39.2497	loss G: 4.4393
+
+17:35:00.797450	Epoch [2/10]	Batch [2/107]	Loss D: 46.0996	loss G: 2.0220
+
+17:35:38.701781	Epoch [2/10]	Batch [3/107]	Loss D: 50.0000	loss G: 0.0000
+
+17:36:17.734198	Epoch [2/10]	Batch [4/107]	Loss D: 50.0004	loss G: 0.0000
+
+17:36:57.058996	Epoch [2/10]	Batch [5/107]	Loss D: 50.0400	loss G: 0.0000
+
+17:37:36.356646	Epoch [2/10]	Batch [6/107]	Loss D: 45.8333	loss G: 4.0727
+
+17:38:15.295510	Epoch [2/10]	Batch [7/107]	Loss D: 45.9053	loss G: 1.8492
+
+17:38:54.665297	Epoch [2/10]	Batch [8/107]	Loss D: 50.0000	loss G: 0.0000
+
+17:39:34.225387	Epoch [2/10]	Batch [9/107]	Loss D: 45.9222	loss G: 1.6960
+
+17:40:13.464443	Epoch [2/10]	Batch [10/107]	Loss D: 38.3184	loss G: 4.9296
+
+17:40:53.069288	Epoch [2/10]	Batch [11/107]	Loss D: 45.9193	loss G: 2.1997
+
+17:41:33.174544	Epoch [2/10]	Batch [12/107]	Loss D: 50.0000	loss G: 0.0000
+
+17:42:12.435151	Epoch [2/10]	Batch [13/107]	Loss D: 38.2228	loss G: 4.4932
+
+17:42:51.840368	Epoch [2/10]	Batch [14/107]	Loss D: 45.8396	loss G: 0.6686
+
+17:43:31.310371	Epoch [2/10]	Batch [15/107]	Loss D: 41.8754	loss G: 5.5002
+
+17:44:10.343959	Epoch [2/10]	Batch [16/107]	Loss D: 50.0001	loss G: 0.0000
+
+17:44:49.702396	Epoch [2/10]	Batch [17/107]	Loss D: 42.0821	loss G: 2.2350
+
+17:45:29.732896	Epoch [2/10]	Batch [18/107]	Loss D: 42.5895	loss G: 3.6385
+
+17:46:10.348670	Epoch [2/10]	Batch [19/107]	Loss D: 45.8335	loss G: 0.6281
+
+17:46:51.260167	Epoch [2/10]	Batch [20/107]	Loss D: 42.3236	loss G: 3.8456
+
+17:47:31.839774	Epoch [2/10]	Batch [21/107]	Loss D: 50.0003	loss G: 0.0000
+
+17:48:11.539127	Epoch [2/10]	Batch [22/107]	Loss D: 46.1869	loss G: 2.0953
+
+17:48:52.135104	Epoch [2/10]	Batch [23/107]	Loss D: 45.8355	loss G: 0.4251
+
+17:49:30.679702	Epoch [2/10]	Batch [24/107]	Loss D: 42.0321	loss G: 3.5122
+
+17:50:10.849745	Epoch [2/10]	Batch [25/107]	Loss D: 42.3421	loss G: 4.4702
+
+17:50:50.977341	Epoch [2/10]	Batch [26/107]	Loss D: 50.0030	loss G: 0.0000
+
+17:51:31.520102	Epoch [2/10]	Batch [27/107]	Loss D: 45.9011	loss G: 0.4153
+
+17:52:11.738149	Epoch [2/10]	Batch [28/107]	Loss D: 50.0001	loss G: 0.0000
+
+17:52:51.818577	Epoch [2/10]	Batch [29/107]	Loss D: 42.6644	loss G: 3.3951
+
+17:53:32.420137	Epoch [2/10]	Batch [30/107]	Loss D: 41.9561	loss G: 3.5981
+
+17:54:12.931272	Epoch [2/10]	Batch [31/107]	Loss D: 38.9185	loss G: 5.8165
+
+17:54:53.184290	Epoch [2/10]	Batch [32/107]	Loss D: 46.1613	loss G: 2.2579
+
+17:55:33.966709	Epoch [2/10]	Batch [33/107]	Loss D: 42.3854	loss G: 4.2668
+
+17:56:14.028126	Epoch [2/10]	Batch [34/107]	Loss D: 42.2495	loss G: 4.0093
+
+17:56:54.458289	Epoch [2/10]	Batch [35/107]	Loss D: 38.1708	loss G: 7.8832
+
+17:57:35.263325	Epoch [2/10]	Batch [36/107]	Loss D: 45.8344	loss G: 2.6044
+
+17:58:14.785702	Epoch [2/10]	Batch [37/107]	Loss D: 33.5150	loss G: 9.6575
+
+17:58:55.512734	Epoch [2/10]	Batch [38/107]	Loss D: 45.9340	loss G: 3.7455
+
+17:59:36.174229	Epoch [2/10]	Batch [39/107]	Loss D: 42.0452	loss G: 4.4463
+
+18:00:15.764661	Epoch [2/10]	Batch [40/107]	Loss D: 38.8342	loss G: 3.7319
+
+18:00:55.852766	Epoch [2/10]	Batch [41/107]	Loss D: 46.3977	loss G: 1.8585
+
+18:01:36.859082	Epoch [2/10]	Batch [42/107]	Loss D: 42.4812	loss G: 3.9366
+
+18:02:16.737242	Epoch [2/10]	Batch [43/107]	Loss D: 34.6085	loss G: 8.8047
+
+18:02:57.862758	Epoch [2/10]	Batch [44/107]	Loss D: 33.8336	loss G: 13.2214
+
+18:03:36.829219	Epoch [2/10]	Batch [45/107]	Loss D: 42.5866	loss G: 4.3042
+
+18:04:16.878415	Epoch [2/10]	Batch [46/107]	Loss D: 33.7831	loss G: 8.8144
+
+18:04:56.990816	Epoch [2/10]	Batch [47/107]	Loss D: 34.0715	loss G: 8.4514
+
+18:05:38.535245	Epoch [2/10]	Batch [48/107]	Loss D: 34.2258	loss G: 8.8010
+
+18:06:17.882974	Epoch [2/10]	Batch [49/107]	Loss D: 33.3505	loss G: 7.9586
+
+18:06:58.507047	Epoch [2/10]	Batch [50/107]	Loss D: 45.8334	loss G: 0.7966
+
+18:07:39.862055	Epoch [2/10]	Batch [51/107]	Loss D: 30.1589	loss G: 8.9683
+
+18:08:20.167009	Epoch [2/10]	Batch [52/107]	Loss D: 50.0003	loss G: 0.0000
+
+18:09:00.577946	Epoch [2/10]	Batch [53/107]	Loss D: 42.7722	loss G: 4.0004
+
+18:09:41.716506	Epoch [2/10]	Batch [54/107]	Loss D: 38.3346	loss G: 5.9953
+
+18:10:21.538831	Epoch [2/10]	Batch [55/107]	Loss D: 33.5021	loss G: 8.2659
+
+18:11:00.546345	Epoch [2/10]	Batch [56/107]	Loss D: 43.3795	loss G: 3.8303
+
+18:11:40.626545	Epoch [2/10]	Batch [57/107]	Loss D: 42.3310	loss G: 2.7944
+
+18:12:20.679160	Epoch [2/10]	Batch [58/107]	Loss D: 38.2630	loss G: 5.3391
+
+18:12:59.961515	Epoch [2/10]	Batch [59/107]	Loss D: 50.0000	loss G: 0.0000
+
+18:13:40.650499	Epoch [2/10]	Batch [60/107]	Loss D: 38.0066	loss G: 5.2376
+
+18:14:19.842274	Epoch [2/10]	Batch [61/107]	Loss D: 34.2705	loss G: 5.7022
+
+18:14:58.931919	Epoch [2/10]	Batch [62/107]	Loss D: 41.8442	loss G: 4.1601
+
+18:15:40.049223	Epoch [2/10]	Batch [63/107]	Loss D: 37.5023	loss G: 2.4997
+
+18:16:19.228463	Epoch [2/10]	Batch [64/107]	Loss D: 52.0537	loss G: 0.0000
+
+18:16:59.266395	Epoch [2/10]	Batch [65/107]	Loss D: 50.0343	loss G: 0.0000
+
+18:17:37.759329	Epoch [2/10]	Batch [66/107]	Loss D: 41.8385	loss G: 4.4541
+
+18:18:17.542670	Epoch [2/10]	Batch [67/107]	Loss D: 42.4451	loss G: 4.4115
+
+18:18:57.332013	Epoch [2/10]	Batch [68/107]	Loss D: 34.0672	loss G: 5.8741
+
+18:19:39.283060	Epoch [2/10]	Batch [69/107]	Loss D: 46.0623	loss G: 2.4711
+
+18:20:19.578295	Epoch [2/10]	Batch [70/107]	Loss D: 37.5001	loss G: 6.7780
+
+18:20:58.164758	Epoch [2/10]	Batch [71/107]	Loss D: 46.3261	loss G: 1.9392
+
+18:21:37.939842	Epoch [2/10]	Batch [72/107]	Loss D: 46.3155	loss G: 2.1270
+
+18:22:17.615049	Epoch [2/10]	Batch [73/107]	Loss D: 46.1333	loss G: 2.0674
+
+18:22:58.627792	Epoch [2/10]	Batch [74/107]	Loss D: 46.1033	loss G: 2.2763
+
+18:23:40.528938	Epoch [2/10]	Batch [75/107]	Loss D: 46.0015	loss G: 1.2003
+
+18:24:20.675790	Epoch [2/10]	Batch [76/107]	Loss D: 41.6917	loss G: 2.7882
+
+18:25:01.625655	Epoch [2/10]	Batch [77/107]	Loss D: 50.0155	loss G: 0.0000
+
+18:25:42.688214	Epoch [2/10]	Batch [78/107]	Loss D: 42.0595	loss G: 4.1360
+
+18:26:22.984342	Epoch [2/10]	Batch [79/107]	Loss D: 46.3278	loss G: 2.2668
+
+18:27:01.213689	Epoch [2/10]	Batch [80/107]	Loss D: 45.8807	loss G: 2.0602
+
+18:27:42.498225	Epoch [2/10]	Batch [81/107]	Loss D: 50.9347	loss G: 0.0000
+
+18:28:23.188771	Epoch [2/10]	Batch [82/107]	Loss D: 50.0000	loss G: 0.0000
+
+18:29:02.531691	Epoch [2/10]	Batch [83/107]	Loss D: 45.8335	loss G: 0.5040
+
+18:29:42.256533	Epoch [2/10]	Batch [84/107]	Loss D: 50.2899	loss G: 0.0000
+
+18:30:22.925844	Epoch [2/10]	Batch [85/107]	Loss D: 38.0033	loss G: 5.5490
+
+18:31:02.182426	Epoch [2/10]	Batch [86/107]	Loss D: 50.0000	loss G: 0.0000
+
+18:31:42.091018	Epoch [2/10]	Batch [87/107]	Loss D: 45.8610	loss G: 1.3527
+
+18:32:22.798478	Epoch [2/10]	Batch [88/107]	Loss D: 42.0348	loss G: 4.9102
+
+18:33:03.205894	Epoch [2/10]	Batch [89/107]	Loss D: 46.7266	loss G: 2.1702
+
+18:33:44.458128	Epoch [2/10]	Batch [90/107]	Loss D: 38.1922	loss G: 3.7674
+
+18:34:25.484180	Epoch [2/10]	Batch [91/107]	Loss D: 50.0000	loss G: 0.0000
+
+18:35:07.088216	Epoch [2/10]	Batch [92/107]	Loss D: 41.6882	loss G: 3.1521
+
+18:35:47.985876	Epoch [2/10]	Batch [93/107]	Loss D: 38.4698	loss G: 5.4255
+
+18:36:27.564563	Epoch [2/10]	Batch [94/107]	Loss D: 46.4518	loss G: 1.4213
+
+18:37:07.166206	Epoch [2/10]	Batch [95/107]	Loss D: 45.8388	loss G: 0.7725
+
+18:37:47.501668	Epoch [2/10]	Batch [96/107]	Loss D: 46.0234	loss G: 2.7153
+
+18:38:27.343006	Epoch [2/10]	Batch [97/107]	Loss D: 46.4977	loss G: 1.2369
+
+18:39:07.194843	Epoch [2/10]	Batch [98/107]	Loss D: 46.3821	loss G: 1.8248
+
+18:39:46.824582	Epoch [2/10]	Batch [99/107]	Loss D: 50.0000	loss G: 0.0000
+
+18:40:26.488737	Epoch [2/10]	Batch [100/107]	Loss D: 45.8333	loss G: 2.6093
+
+18:41:05.975456	Epoch [2/10]	Batch [101/107]	Loss D: 29.6483	loss G: 9.8347
+
+18:41:46.351112	Epoch [2/10]	Batch [102/107]	Loss D: 38.2191	loss G: 6.7291
+
+18:42:26.403054	Epoch [2/10]	Batch [103/107]	Loss D: 38.4419	loss G: 5.8779
+
+18:43:06.229227	Epoch [2/10]	Batch [104/107]	Loss D: 45.9083	loss G: 2.8568
+
+18:43:46.288804	Epoch [2/10]	Batch [105/107]	Loss D: 45.8335	loss G: 1.9740
+
+18:44:25.954933	Epoch [2/10]	Batch [106/107]	Loss D: 42.2929	loss G: 2.0465
+
+18:45:06.114493	Epoch [2/10]	Batch [107/107]	Loss D: 38.5557	loss G: 5.3091
+
+18:46:03.361303	Epoch [3/10]	Batch [1/107]	Loss D: 35.0085	loss G: 8.0458
+
+18:46:47.223777	Epoch [3/10]	Batch [2/107]	Loss D: 33.7052	loss G: 9.3104
+
+18:47:25.860241	Epoch [3/10]	Batch [3/107]	Loss D: 37.5494	loss G: 3.7074
+
+18:48:05.926325	Epoch [3/10]	Batch [4/107]	Loss D: 35.2071	loss G: 8.3170
+
+18:48:46.378975	Epoch [3/10]	Batch [5/107]	Loss D: 38.6908	loss G: 7.5521
+
+18:49:26.184420	Epoch [3/10]	Batch [6/107]	Loss D: 38.7474	loss G: 5.7552
+
+18:50:05.723260	Epoch [3/10]	Batch [7/107]	Loss D: 42.2732	loss G: 2.8011
+
+18:51:09.086557	Epoch [3/10]	Batch [8/107]	Loss D: 38.6816	loss G: 6.4409
+
+21:30:18.392844	Epoch [3/10]	Batch [9/107]	Loss D: 29.5828	loss G: 7.8838
+
+21:30:59.091989	Epoch [3/10]	Batch [10/107]	Loss D: 33.7172	loss G: 12.0116
+
+21:31:37.715553	Epoch [3/10]	Batch [11/107]	Loss D: 25.4673	loss G: 14.5199
+
+21:32:15.523066	Epoch [3/10]	Batch [12/107]	Loss D: 37.7249	loss G: 8.3360
+
+21:32:53.530973	Epoch [3/10]	Batch [13/107]	Loss D: 37.9753	loss G: 5.7296
+
+21:33:31.654670	Epoch [3/10]	Batch [14/107]	Loss D: 35.1064	loss G: 10.0660
+
+21:34:09.607252	Epoch [3/10]	Batch [15/107]	Loss D: 34.1311	loss G: 8.9014
+
+21:34:48.104152	Epoch [3/10]	Batch [16/107]	Loss D: 29.7488	loss G: 8.7809
+
+21:35:27.400861	Epoch [3/10]	Batch [17/107]	Loss D: 45.8509	loss G: 1.4722
+
+21:36:05.961830	Epoch [3/10]	Batch [18/107]	Loss D: 37.6186	loss G: 7.6092
+
+21:36:44.089732	Epoch [3/10]	Batch [19/107]	Loss D: 38.4699	loss G: 6.8451
+
+21:37:22.433250	Epoch [3/10]	Batch [20/107]	Loss D: 33.4372	loss G: 11.9948
+
+21:38:02.388744	Epoch [3/10]	Batch [21/107]	Loss D: 33.9724	loss G: 7.2631
+
+21:38:42.358103	Epoch [3/10]	Batch [22/107]	Loss D: 37.9833	loss G: 6.3461
+
+21:39:22.408193	Epoch [3/10]	Batch [23/107]	Loss D: 41.8617	loss G: 4.7625
+
+21:40:00.698568	Epoch [3/10]	Batch [24/107]	Loss D: 34.5061	loss G: 6.4693
+
+21:40:40.872305	Epoch [3/10]	Batch [25/107]	Loss D: 34.3237	loss G: 11.6853
+
+21:41:20.042477	Epoch [3/10]	Batch [26/107]	Loss D: 41.9720	loss G: 6.3250
+
+21:41:58.353282	Epoch [3/10]	Batch [27/107]	Loss D: 45.8750	loss G: 1.4884
+
+21:42:36.729930	Epoch [3/10]	Batch [28/107]	Loss D: 38.2046	loss G: 5.1255
+
+21:43:16.453673	Epoch [3/10]	Batch [29/107]	Loss D: 34.3209	loss G: 15.7567
+
+21:43:56.214398	Epoch [3/10]	Batch [30/107]	Loss D: 34.6401	loss G: 12.3425
+
+21:44:36.237772	Epoch [3/10]	Batch [31/107]	Loss D: 34.5622	loss G: 7.9795
+
+21:45:15.883083	Epoch [3/10]	Batch [32/107]	Loss D: 46.2515	loss G: 1.0748
+
+21:45:55.886805	Epoch [3/10]	Batch [33/107]	Loss D: 34.0695	loss G: 8.0782
+
+21:46:35.148017	Epoch [3/10]	Batch [34/107]	Loss D: 30.5177	loss G: 8.9149
+
+21:47:13.616067	Epoch [3/10]	Batch [35/107]	Loss D: 43.0050	loss G: 3.1588
+
+21:47:51.514652	Epoch [3/10]	Batch [36/107]	Loss D: 37.5178	loss G: 4.9444
+
+21:48:29.670083	Epoch [3/10]	Batch [37/107]	Loss D: 42.3309	loss G: 6.2138
+
+21:49:08.592655	Epoch [3/10]	Batch [38/107]	Loss D: 45.8491	loss G: 0.8251
+
+21:49:48.470933	Epoch [3/10]	Batch [39/107]	Loss D: 38.0897	loss G: 6.7908
+
+21:50:25.694666	Epoch [3/10]	Batch [40/107]	Loss D: 34.3289	loss G: 8.0682
+
+21:51:05.269541	Epoch [3/10]	Batch [41/107]	Loss D: 34.0191	loss G: 13.9506
+
+21:51:45.055688	Epoch [3/10]	Batch [42/107]	Loss D: 33.3353	loss G: 5.6204
+
+21:52:26.205766	Epoch [3/10]	Batch [43/107]	Loss D: 38.0303	loss G: 10.0911
+
+21:53:07.438014	Epoch [3/10]	Batch [44/107]	Loss D: 37.9347	loss G: 8.1377
+
+21:53:50.007504	Epoch [3/10]	Batch [45/107]	Loss D: 37.8864	loss G: 7.1144
+
+21:54:32.907045	Epoch [3/10]	Batch [46/107]	Loss D: 43.7939	loss G: 4.4403
+
+21:55:15.070328	Epoch [3/10]	Batch [47/107]	Loss D: 43.0728	loss G: 8.7972
+
+21:55:56.093941	Epoch [3/10]	Batch [48/107]	Loss D: 50.0001	loss G: 0.0000
+
+21:56:37.290703	Epoch [3/10]	Batch [49/107]	Loss D: 42.5820	loss G: 2.9803
+
+21:57:19.241192	Epoch [3/10]	Batch [50/107]	Loss D: 41.8145	loss G: 3.8018
+
+21:58:00.907077	Epoch [3/10]	Batch [51/107]	Loss D: 41.9537	loss G: 3.2977
+
+21:58:43.528605	Epoch [3/10]	Batch [52/107]	Loss D: 41.8820	loss G: 4.7787
+
