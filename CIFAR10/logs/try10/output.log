@@ -1,4 +1,17 @@
-No BatchNorm for Discriminator
-Learning Rate Gen = 0.0004	Learning Rate Disc = 8e-05
-18:50:12.943444	Epoch [1/30]	Batch [1/313]	Loss D: 1.0170	loss G: 26.2969
-18:50:34.685198	Epoch [1/30]	Batch [63/313]	Loss D: 0.0000	loss G: 41.5901
+Learning Rate Gen = 0.001	Learning Rate Disc = 8e-06
+22:13:55.218872	Epoch [1/1000]	Batch [1/313]	Loss D: 0.8722	loss G: 2.0484
+22:14:16.293764	Epoch [1/1000]	Batch [63/313]	Loss D: 1.3731	loss G: 4.7748
+22:14:37.672954	Epoch [1/1000]	Batch [125/313]	Loss D: 0.6021	loss G: 5.8048
+22:14:59.099826	Epoch [1/1000]	Batch [187/313]	Loss D: 0.1650	loss G: 4.4171
+22:15:20.527312	Epoch [1/1000]	Batch [249/313]	Loss D: 0.1581	loss G: 3.4551
+22:15:41.967862	Epoch [1/1000]	Batch [311/313]	Loss D: 0.4234	loss G: 4.2658
+22:15:53.058722	Epoch [2/1000]	Batch [1/313]	Loss D: 0.5694	loss G: 4.6406
+22:16:14.840788	Epoch [2/1000]	Batch [63/313]	Loss D: 0.1071	loss G: 4.3962
+22:16:36.259462	Epoch [2/1000]	Batch [125/313]	Loss D: 0.0709	loss G: 4.7548
+22:16:57.692883	Epoch [2/1000]	Batch [187/313]	Loss D: 0.0675	loss G: 4.6627
+22:17:19.133536	Epoch [2/1000]	Batch [249/313]	Loss D: 0.0348	loss G: 4.6971
+22:17:40.581599	Epoch [2/1000]	Batch [311/313]	Loss D: 0.0209	loss G: 4.6120
+22:17:51.496847	Epoch [3/1000]	Batch [1/313]	Loss D: 0.0664	loss G: 4.6996
+22:18:13.198223	Epoch [3/1000]	Batch [63/313]	Loss D: 0.0311	loss G: 4.6448
+22:18:34.659217	Epoch [3/1000]	Batch [125/313]	Loss D: 0.0128	loss G: 4.9619
+LR_Gen = 0.001	LR_Disc = 8e-06	z_dim = 64	batch_size = 32	features_d = 300	features_g = 300

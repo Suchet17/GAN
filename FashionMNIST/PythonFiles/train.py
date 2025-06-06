@@ -14,21 +14,18 @@ from config import (z_dim, img_channels, batch_size,
 
 if __name__ == '__main__':
     data = "CIFAR10"
-    version = 10
+    version = 18
     try:
         os.mkdir(f"GAN/{data}/logs/try{version}")
     except FileExistsError:
         if os.path.exists(f"GAN/{data}/logs/try{version}/output.log"):
             print("Change Version Number")
             raise SystemExit
-    num_images = 10000
-    num_batches = int(num_images/batch_size)
-    k = num_batches // 5
-    now = datetime.now
+
     if torch.cuda.is_available():
         device = torch.device('cuda')
     else:
-        d1evice = torch.device('cpu')
+        device = torch.device('cpu')
 
     # Setup models
     disc = DiscriminativeNetwork(img_channels, features_disc).to(device)
@@ -44,6 +41,7 @@ if __name__ == '__main__':
                                         transforms.ToTensor()]))
     dataloader = DataLoader(dataset, batch_size=batch_size,
                             shuffle = True, num_workers = 4)
+    k = len(dataloader) // 5
 
     # Setup trainers
     optim_d = Adam(disc.parameters(), lr=learning_rate_d, betas =(0.5, 0.999))
@@ -59,9 +57,18 @@ if __name__ == '__main__':
     gen.train()
     disc.train()
     f = open(f"GAN/{data}/logs/try{version}/output.log", 'w')
-    print("No BatchNorm for Discriminator", file=f)
-    print(f"Learning Rate Gen = {learning_rate_g}\tLearning Rate Disc = {learning_rate_d}", file=f, flush=True)
+    # print("No BatchNorm for Discriminator", file=f, flush=True)
+    print(f"LR_Gen = {learning_rate_g}",
+          f"LR_Disc = {learning_rate_d}",
+          f"z_dim = {z_dim}",
+          f"batch_size = {batch_size}",
+          f"features_d = {features_disc}",
+          f"features_g = {features_gen}",
+          sep="\t", file=f, flush=True)
+
     print("Start Training")
+    fake = gen(fixed_noise).to(torch.device('cpu'))
+    savefig(fake, f"GAN/{data}/logs/try{version}/Image{0}.png")
     #Training Loop
     for epoch in range(num_epochs):
         for batch_index , (real, _ ) in enumerate(dataloader):
@@ -103,8 +110,10 @@ if __name__ == '__main__':
                       f"Loss D: {lossD:.4f}\tloss G: {lossG:.4f}",
                       file = f, flush=True)
 
-                fake = gen(fixed_noise).to(torch.device('cpu'))
-                savefig(fake, f"GAN/{data}/logs/try{version}/Image{epoch+1}_{batch_index//k+1}.png")
-                print(f"Saved Image{epoch+1}_{batch_index//k+1}.png")
-            # print(torch.cuda.memory_summary(), file=f, flush=True)
+        fake = gen(fixed_noise).to(torch.device('cpu'))
+        savefig(fake, f"GAN/{data}/logs/try{version}/Image{epoch+1}.png")
+        print(f"Saved Image{epoch+1}.png")
     f.close()
+    torch.save(gen.state_dict(), f"GAN/{data}/logs/try{version}/final_weights_gen.pth")
+    torch.save(disc.state_dict(), f"GAN/{data}/logs/try{version}/final_weights_disc.pth")
+    print("Training Complete")

@@ -1,0 +1,23 @@
+LR_Gen = 0.001	LR_Disc = 8e-06	z_dim = 64	batch_size = 32	features_d = 100	features_g = 300
+22:26:48.912822	Epoch [1/1000]	Batch [1/313]	Loss D: 1.1672	loss G: 1.3149
+22:26:56.705616	Epoch [1/1000]	Batch [63/313]	Loss D: 2.6159	loss G: 0.0653
+22:27:04.526441	Epoch [1/1000]	Batch [125/313]	Loss D: 2.1851	loss G: 0.1213
+22:27:12.379751	Epoch [1/1000]	Batch [187/313]	Loss D: 1.8907	loss G: 0.1817
+22:27:20.233565	Epoch [1/1000]	Batch [249/313]	Loss D: 0.9357	loss G: 0.8357
+22:27:28.112689	Epoch [1/1000]	Batch [311/313]	Loss D: 0.8091	loss G: 0.9661
+22:27:39.115961	Epoch [2/1000]	Batch [1/313]	Loss D: 0.9030	loss G: 1.0895
+22:27:47.364111	Epoch [2/1000]	Batch [63/313]	Loss D: 0.8210	loss G: 0.8465
+22:27:55.280675	Epoch [2/1000]	Batch [125/313]	Loss D: 0.3866	loss G: 1.5094
+22:28:03.179329	Epoch [2/1000]	Batch [187/313]	Loss D: 0.5023	loss G: 1.3750
+22:28:11.121940	Epoch [2/1000]	Batch [249/313]	Loss D: 0.3194	loss G: 1.5425
+22:28:19.049821	Epoch [2/1000]	Batch [311/313]	Loss D: 0.2492	loss G: 1.6621
+22:28:30.108029	Epoch [3/1000]	Batch [1/313]	Loss D: 0.4494	loss G: 1.6252
+22:28:38.317002	Epoch [3/1000]	Batch [63/313]	Loss D: 1.1462	loss G: 0.6458
+22:28:46.211718	Epoch [3/1000]	Batch [125/313]	Loss D: 0.9502	loss G: 0.6793
+22:28:54.112251	Epoch [3/1000]	Batch [187/313]	Loss D: 0.9265	loss G: 0.6634
+22:29:02.038072	Epoch [3/1000]	Batch [249/313]	Loss D: 0.9416	loss G: 0.6954
+22:29:09.996068	Epoch [3/1000]	Batch [311/313]	Loss D: 0.6361	loss G: 0.9964
+22:29:20.650769	Epoch [4/1000]	Batch [1/313]	Loss D: 0.6182	loss G: 0.9742
+22:29:28.884693	Epoch [4/1000]	Batch [63/313]	Loss D: 0.7002	loss G: 0.8643
+22:29:36.773589	Epoch [4/1000]	Batch [125/313]	Loss D: 0.6580	loss G: 0.8780
+22:29:44.694745	Epoch [4/1000]	Batch [187/313]	Loss D: 0.4815	loss G: 1.3717
